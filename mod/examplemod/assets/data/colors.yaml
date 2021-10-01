@@ -1,0 +1,8 @@
+{
+  # this is a string represantion of the color of the backgrounds
+  # i named the file .tjson because file names can be arbitrary
+
+  "mainMenu": "#24f1ed",
+  "mainMenuFlash": "#24f1ed",
+  "freeplayMenu": "#24f1ed"
+}

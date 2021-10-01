@@ -1,0 +1,26 @@
+{
+  "songs": [
+	  ["WEEK1 select", "Good-Enough", "Lover","Tug-Of-War", "Animal", "I'm-Sorry"],
+	  ["week2 select", "Storm", "Bird-Feeder"],
+    ["Week 3 press", "Headache", "Nerves", "Release", "Fading"]
+	],
+  
+  "weekNames": [
+    "Annie",
+    "Extras",
+    "Annie Sings Garcello",
+  "Play As Annie!",
+    "//REDACTED//",
+    "//REDACTED//",
+    "hating simulator ft. moawling"
+  ],
+  "characters": [
+    ["pico", "bf", "gf"],
+		["pico", "bf", "gf"],
+		["pico", "bf", "gf"],
+		["pico", "bf", "gf"],
+		["pico", "bf", "gf"],
+		["pico", "bf", "gf"],
+    ["senpai", "bf", "gf"]
+  ]
+}
