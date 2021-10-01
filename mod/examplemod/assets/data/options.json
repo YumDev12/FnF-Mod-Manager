@@ -1,6 +1,6 @@
 {
      "preferredSave" : 0
-    ,"skipVictoryScreen" : false
+    ,"skipVictoryScreen" : true
     ,"alwaysDoCutscenes" : true
     ,"allowEditOptions" : true
     ,"useSaveDataMenu" : true
