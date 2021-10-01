@@ -8,13 +8,12 @@ cls
 echo Welcome To The Mod Manager For FNF
 echo edit the batch file
 echo Do This Code 
-echo 1. Help
-echo 2. VsByteWolf
-echo 3. examplemod
-choice /c 12 
-if %errorlevel% == 1 goto help
-if %errorlevel% == 3 goto examplemod
-if %errorlevel% == 2 goto bytewolf
+echo 1. VsByteWolf
+echo 2. examplemod
+Echo Note, You Need To Change The Paths 
+choice /c 12
+if %errorlevel% == 2 goto examplemod
+if %errorlevel% == 1 goto bytewolf
 
 :help
 cls
