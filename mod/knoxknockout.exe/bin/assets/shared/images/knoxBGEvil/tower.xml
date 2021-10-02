@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tower.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="towerFire0000" x="4" y="4" width="783" height="877" pivotX="277.05" pivotY="438.2" frameX="0" frameY="0" frameWidth="786" frameHeight="877"/>
+	<SubTexture name="towerFire0001" x="4" y="4" width="783" height="877" frameX="0" frameY="0" frameWidth="786" frameHeight="877"/>
+	<SubTexture name="towerFire0002" x="787" y="4" width="786" height="877"/>
+	<SubTexture name="towerFire0003" x="787" y="4" width="786" height="877"/>
+	<SubTexture name="towerFire0004" x="4" y="881" width="761" height="877" frameX="0" frameY="0" frameWidth="786" frameHeight="877"/>
+	<SubTexture name="towerFire0005" x="4" y="881" width="761" height="877" frameX="0" frameY="0" frameWidth="786" frameHeight="877"/>
+</TextureAtlas>

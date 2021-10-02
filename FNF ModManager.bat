@@ -10,10 +10,12 @@ echo edit the batch file
 echo Do This Code 
 echo 1. VsByteWolf
 echo 2. examplemod
+echo 3. knox
 Echo Note, You Need To Change The Paths 
-choice /c 12
+choice /c 123
 if %errorlevel% == 2 goto examplemod
 if %errorlevel% == 1 goto bytewolf
+if %errorlevel% == 3 goto knox
 
 :help
 cls
@@ -39,4 +41,11 @@ title Bytewolf
 cd C:\Users\Riley\Documents\GitHub\FnF-Mod-Manager\mod
 cd C:\Users\Riley\Documents\GitHub\FnF-Mod-Manager\mod\Bytewolf
 start VSByteWolf.exe
+goto mainmenustate
+
+:knox
+cls
+title knox
+cd C:\Users\Riley\Documents\GitHub\FnF-Mod-Manager\mod\knoxknockout.exe\bin
+start Knox.exe
 goto mainmenustate

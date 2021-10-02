@@ -1,0 +1,4 @@
+Tutorial:gf:1
+Intimidation:knox:7
+Irritation:knox:7
+Final-Stand:knox-evil:7

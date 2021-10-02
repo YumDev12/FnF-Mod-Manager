@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Knox_Assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Knox Down0000" x="2" y="2" width="427" height="961" frameX="-10" frameY="-11" frameWidth="437" frameHeight="972"/>
+	<SubTexture name="Knox Down0001" x="2" y="2" width="427" height="961" frameX="-10" frameY="-11" frameWidth="437" frameHeight="972"/>
+	<SubTexture name="Knox Down0002" x="431" y="2" width="427" height="961" frameX="-7" frameY="-11" frameWidth="437" frameHeight="972"/>
+	<SubTexture name="Knox Down0003" x="431" y="2" width="427" height="961" frameX="-7" frameY="-11" frameWidth="437" frameHeight="972"/>
+	<SubTexture name="Knox Down0004" x="860" y="2" width="406" height="972" frameX="0" frameY="0" frameWidth="437" frameHeight="972"/>
+	<SubTexture name="Knox Down0005" x="860" y="2" width="406" height="972" frameX="0" frameY="0" frameWidth="437" frameHeight="972"/>
+	<SubTexture name="Knox Down0006" x="860" y="2" width="406" height="972" frameX="0" frameY="0" frameWidth="437" frameHeight="972"/>
+	<SubTexture name="Knox Down0007" x="860" y="2" width="406" height="972" frameX="0" frameY="0" frameWidth="437" frameHeight="972"/>
+	<SubTexture name="Knox Down0008" x="860" y="2" width="406" height="972" frameX="0" frameY="0" frameWidth="437" frameHeight="972"/>
+	<SubTexture name="Knox Down0009" x="860" y="2" width="406" height="972" frameX="0" frameY="0" frameWidth="437" frameHeight="972"/>
+	<SubTexture name="Knox Down0010" x="860" y="2" width="406" height="972" frameX="0" frameY="0" frameWidth="437" frameHeight="972"/>
+	<SubTexture name="Knox Down0011" x="860" y="2" width="406" height="972" frameX="0" frameY="0" frameWidth="437" frameHeight="972"/>
+	<SubTexture name="Knox Idle0000" x="1268" y="2" width="409" height="987" frameX="0" frameY="-3" frameWidth="409" frameHeight="990"/>
+	<SubTexture name="Knox Idle0001" x="1268" y="2" width="409" height="987" frameX="0" frameY="-3" frameWidth="409" frameHeight="990"/>
+	<SubTexture name="Knox Idle0002" x="1679" y="2" width="404" height="990" frameX="-3" frameY="0" frameWidth="409" frameHeight="990"/>
+	<SubTexture name="Knox Idle0003" x="1679" y="2" width="404" height="990" frameX="-3" frameY="0" frameWidth="409" frameHeight="990"/>
+	<SubTexture name="Knox Idle0004" x="2085" y="2" width="404" height="988" frameX="-3" frameY="-2" frameWidth="409" frameHeight="990"/>
+	<SubTexture name="Knox Idle0005" x="2085" y="2" width="404" height="988" frameX="-3" frameY="-2" frameWidth="409" frameHeight="990"/>
+	<SubTexture name="Knox Idle0006" x="2491" y="2" width="404" height="988" frameX="-3" frameY="-2" frameWidth="409" frameHeight="990"/>
+	<SubTexture name="Knox Idle0007" x="2491" y="2" width="404" height="988" frameX="-3" frameY="-2" frameWidth="409" frameHeight="990"/>
+	<SubTexture name="Knox Idle0008" x="2897" y="2" width="404" height="989" frameX="-3" frameY="-1" frameWidth="409" frameHeight="990"/>
+	<SubTexture name="Knox Idle0009" x="2897" y="2" width="404" height="989" frameX="-3" frameY="-1" frameWidth="409" frameHeight="990"/>
+	<SubTexture name="Knox Idle0010" x="2897" y="2" width="404" height="989" frameX="-3" frameY="-1" frameWidth="409" frameHeight="990"/>
+	<SubTexture name="Knox Idle0011" x="2897" y="2" width="404" height="989" frameX="-3" frameY="-1" frameWidth="409" frameHeight="990"/>
+	<SubTexture name="Knox Idle0012" x="2897" y="2" width="404" height="989" frameX="-3" frameY="-1" frameWidth="409" frameHeight="990"/>
+	<SubTexture name="Knox Idle0013" x="2897" y="2" width="404" height="989" frameX="-3" frameY="-1" frameWidth="409" frameHeight="990"/>
+	<SubTexture name="Knox Left0000" x="3303" y="2" width="427" height="972" frameX="0" frameY="-9" frameWidth="455" frameHeight="981"/>
+	<SubTexture name="Knox Left0001" x="3303" y="2" width="427" height="972" frameX="0" frameY="-9" frameWidth="455" frameHeight="981"/>
+	<SubTexture name="Knox Left0002" x="2" y="994" width="430" height="974" frameX="-2" frameY="-7" frameWidth="455" frameHeight="981"/>
+	<SubTexture name="Knox Left0003" x="2" y="994" width="430" height="974" frameX="-2" frameY="-7" frameWidth="455" frameHeight="981"/>
+	<SubTexture name="Knox Left0004" x="434" y="994" width="434" height="981" frameX="-21" frameY="0" frameWidth="455" frameHeight="981"/>
+	<SubTexture name="Knox Left0005" x="434" y="994" width="434" height="981" frameX="-21" frameY="0" frameWidth="455" frameHeight="981"/>
+	<SubTexture name="Knox Left0006" x="434" y="994" width="434" height="981" frameX="-21" frameY="0" frameWidth="455" frameHeight="981"/>
+	<SubTexture name="Knox Left0007" x="434" y="994" width="434" height="981" frameX="-21" frameY="0" frameWidth="455" frameHeight="981"/>
+	<SubTexture name="Knox Left0008" x="434" y="994" width="434" height="981" frameX="-21" frameY="0" frameWidth="455" frameHeight="981"/>
+	<SubTexture name="Knox Left0009" x="434" y="994" width="434" height="981" frameX="-21" frameY="0" frameWidth="455" frameHeight="981"/>
+	<SubTexture name="Knox Right0000" x="870" y="994" width="509" height="1049" frameX="-7" frameY="-6" frameWidth="534" frameHeight="1055"/>
+	<SubTexture name="Knox Right0001" x="1381" y="994" width="527" height="1055" frameX="-7" frameY="0" frameWidth="534" frameHeight="1055"/>
+	<SubTexture name="Knox Right0002" x="1910" y="994" width="492" height="1024" frameX="-6" frameY="-31" frameWidth="534" frameHeight="1055"/>
+	<SubTexture name="Knox Right0003" x="2404" y="994" width="500" height="1040" frameX="-6" frameY="-15" frameWidth="534" frameHeight="1055"/>
+	<SubTexture name="Knox Right0004" x="2906" y="994" width="437" height="979" frameX="0" frameY="-76" frameWidth="534" frameHeight="1055"/>
+	<SubTexture name="Knox Right0005" x="3345" y="994" width="437" height="982" frameX="0" frameY="-73" frameWidth="534" frameHeight="1055"/>
+	<SubTexture name="Knox Right0006" x="2" y="2051" width="444" height="984" frameX="0" frameY="-71" frameWidth="534" frameHeight="1055"/>
+	<SubTexture name="Knox Right0007" x="2906" y="994" width="437" height="979" frameX="0" frameY="-76" frameWidth="534" frameHeight="1055"/>
+	<SubTexture name="Knox Right0008" x="3345" y="994" width="437" height="982" frameX="0" frameY="-73" frameWidth="534" frameHeight="1055"/>
+	<SubTexture name="Knox Right0009" x="2" y="2051" width="444" height="984" frameX="0" frameY="-71" frameWidth="534" frameHeight="1055"/>
+	<SubTexture name="Knox Up0000" x="448" y="2051" width="463" height="1062" frameX="-6" frameY="-6" frameWidth="493" frameHeight="1068"/>
+	<SubTexture name="Knox Up0001" x="913" y="2051" width="481" height="1068" frameX="-6" frameY="0" frameWidth="493" frameHeight="1068"/>
+	<SubTexture name="Knox Up0002" x="1396" y="2051" width="462" height="1027" frameX="-4" frameY="-41" frameWidth="493" frameHeight="1068"/>
+	<SubTexture name="Knox Up0003" x="1860" y="2051" width="471" height="1045" frameX="-4" frameY="-23" frameWidth="493" frameHeight="1068"/>
+	<SubTexture name="Knox Up0004" x="2333" y="2051" width="441" height="994" frameX="0" frameY="-74" frameWidth="493" frameHeight="1068"/>
+	<SubTexture name="Knox Up0005" x="2776" y="2051" width="426" height="994" frameX="0" frameY="-74" frameWidth="493" frameHeight="1068"/>
+	<SubTexture name="Knox Up0006" x="3204" y="2051" width="431" height="994" frameX="0" frameY="-74" frameWidth="493" frameHeight="1068"/>
+	<SubTexture name="Knox Up0007" x="2333" y="2051" width="441" height="994" frameX="0" frameY="-74" frameWidth="493" frameHeight="1068"/>
+	<SubTexture name="Knox Up0008" x="2776" y="2051" width="426" height="994" frameX="0" frameY="-74" frameWidth="493" frameHeight="1068"/>
+	<SubTexture name="Knox Up0009" x="3204" y="2051" width="431" height="994" frameX="0" frameY="-74" frameWidth="493" frameHeight="1068"/>
+</TextureAtlas>

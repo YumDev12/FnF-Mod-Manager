@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Knox_Evil.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DemonKnoxDown0000" x="0" y="0" width="836" height="887" pivotX="284.35" pivotY="431.4" frameX="0" frameY="-14" frameWidth="836" frameHeight="903"/>
+	<SubTexture name="DemonKnoxDown0001" x="0" y="0" width="836" height="887" frameX="0" frameY="-14" frameWidth="836" frameHeight="903"/>
+	<SubTexture name="DemonKnoxDown0002" x="836" y="0" width="781" height="900" frameX="-5" frameY="-2" frameWidth="836" frameHeight="903"/>
+	<SubTexture name="DemonKnoxDown0003" x="1617" y="0" width="776" height="900" frameX="-5" frameY="-2" frameWidth="836" frameHeight="903"/>
+	<SubTexture name="DemonKnoxDown0004" x="2393" y="0" width="781" height="903" frameX="0" frameY="0" frameWidth="836" frameHeight="903"/>
+	<SubTexture name="DemonKnoxDown0005" x="2393" y="0" width="781" height="903" frameX="0" frameY="0" frameWidth="836" frameHeight="903"/>
+	<SubTexture name="DemonKnoxDown0006" x="2393" y="0" width="781" height="903" frameX="0" frameY="0" frameWidth="836" frameHeight="903"/>
+	<SubTexture name="DemonKnoxDown0007" x="2393" y="0" width="781" height="903" frameX="0" frameY="0" frameWidth="836" frameHeight="903"/>
+	<SubTexture name="DemonKnoxDown0008" x="2393" y="0" width="781" height="903" frameX="0" frameY="0" frameWidth="836" frameHeight="903"/>
+	<SubTexture name="DemonKnoxDown0009" x="2393" y="0" width="781" height="903" frameX="0" frameY="0" frameWidth="836" frameHeight="903"/>
+	<SubTexture name="DemonKnoxDown0010" x="2393" y="0" width="781" height="903" frameX="0" frameY="0" frameWidth="836" frameHeight="903"/>
+	<SubTexture name="DemonKnoxIdle0000" x="3174" y="0" width="385" height="989" pivotX="167" pivotY="427.25" frameX="-3" frameY="0" frameWidth="388" frameHeight="989"/>
+	<SubTexture name="DemonKnoxIdle0001" x="3174" y="0" width="385" height="989" frameX="-3" frameY="0" frameWidth="388" frameHeight="989"/>
+	<SubTexture name="DemonKnoxIdle0002" x="3559" y="0" width="385" height="989" frameX="-3" frameY="0" frameWidth="388" frameHeight="989"/>
+	<SubTexture name="DemonKnoxIdle0003" x="3559" y="0" width="385" height="989" frameX="-3" frameY="0" frameWidth="388" frameHeight="989"/>
+	<SubTexture name="DemonKnoxIdle0004" x="3174" y="0" width="385" height="989" frameX="-3" frameY="0" frameWidth="388" frameHeight="989"/>
+	<SubTexture name="DemonKnoxIdle0005" x="3174" y="0" width="385" height="989" frameX="-3" frameY="0" frameWidth="388" frameHeight="989"/>
+	<SubTexture name="DemonKnoxIdle0006" x="3944" y="0" width="385" height="989" frameX="-3" frameY="0" frameWidth="388" frameHeight="989"/>
+	<SubTexture name="DemonKnoxIdle0007" x="3944" y="0" width="385" height="989" frameX="-3" frameY="0" frameWidth="388" frameHeight="989"/>
+	<SubTexture name="DemonKnoxIdle0008" x="3174" y="0" width="385" height="989" frameX="-3" frameY="0" frameWidth="388" frameHeight="989"/>
+	<SubTexture name="DemonKnoxIdle0009" x="3174" y="0" width="385" height="989" frameX="-3" frameY="0" frameWidth="388" frameHeight="989"/>
+	<SubTexture name="DemonKnoxIdle0010" x="3174" y="0" width="385" height="989" frameX="-3" frameY="0" frameWidth="388" frameHeight="989"/>
+	<SubTexture name="DemonKnoxIdle0011" x="4329" y="0" width="385" height="988" frameX="0" frameY="-1" frameWidth="388" frameHeight="989"/>
+	<SubTexture name="DemonKnoxIdle0012" x="4329" y="0" width="385" height="988" frameX="0" frameY="-1" frameWidth="388" frameHeight="989"/>
+	<SubTexture name="DemonKnoxIdle0013" x="3174" y="0" width="385" height="989" frameX="-3" frameY="0" frameWidth="388" frameHeight="989"/>
+	<SubTexture name="DemonKnoxIdle0014" x="3174" y="0" width="385" height="989" frameX="-3" frameY="0" frameWidth="388" frameHeight="989"/>
+	<SubTexture name="DemonKnoxIdle0015" x="3944" y="0" width="385" height="989" frameX="-3" frameY="0" frameWidth="388" frameHeight="989"/>
+	<SubTexture name="DemonKnoxLeft0000" x="4714" y="0" width="665" height="1116" pivotX="211.85" pivotY="557" frameX="0" frameY="-3" frameWidth="665" frameHeight="1119"/>
+	<SubTexture name="DemonKnoxLeft0001" x="5379" y="0" width="664" height="1119" frameX="0" frameY="0" frameWidth="665" frameHeight="1119"/>
+	<SubTexture name="DemonKnoxLeft0002" x="6043" y="0" width="634" height="1029" frameX="-3" frameY="-90" frameWidth="665" frameHeight="1119"/>
+	<SubTexture name="DemonKnoxLeft0003" x="6677" y="0" width="630" height="1021" frameX="-3" frameY="-98" frameWidth="665" frameHeight="1119"/>
+	<SubTexture name="DemonKnoxLeft0004" x="7307" y="0" width="628" height="1023" frameX="-5" frameY="-96" frameWidth="665" frameHeight="1119"/>
+	<SubTexture name="DemonKnoxLeft0005" x="0" y="1119" width="630" height="1019" frameX="-5" frameY="-100" frameWidth="665" frameHeight="1119"/>
+	<SubTexture name="DemonKnoxLeft0006" x="630" y="1119" width="628" height="1021" frameX="-5" frameY="-98" frameWidth="665" frameHeight="1119"/>
+	<SubTexture name="DemonKnoxLeft0007" x="7307" y="0" width="628" height="1023" frameX="-5" frameY="-96" frameWidth="665" frameHeight="1119"/>
+	<SubTexture name="DemonKnoxLeft0008" x="0" y="1119" width="630" height="1019" frameX="-5" frameY="-100" frameWidth="665" frameHeight="1119"/>
+	<SubTexture name="DemonKnoxRight0000" x="1258" y="1119" width="687" height="962" pivotX="284.5" pivotY="393.35" frameX="-17" frameY="0" frameWidth="718" frameHeight="962"/>
+	<SubTexture name="DemonKnoxRight0001" x="1945" y="1119" width="687" height="962" frameX="-17" frameY="0" frameWidth="718" frameHeight="962"/>
+	<SubTexture name="DemonKnoxRight0002" x="2632" y="1119" width="718" height="943" frameX="0" frameY="-19" frameWidth="718" frameHeight="962"/>
+	<SubTexture name="DemonKnoxRight0003" x="3350" y="1119" width="718" height="943" frameX="0" frameY="-19" frameWidth="718" frameHeight="962"/>
+	<SubTexture name="DemonKnoxRight0004" x="4068" y="1119" width="718" height="943" frameX="0" frameY="-19" frameWidth="718" frameHeight="962"/>
+	<SubTexture name="DemonKnoxRight0005" x="2632" y="1119" width="718" height="943" frameX="0" frameY="-19" frameWidth="718" frameHeight="962"/>
+	<SubTexture name="DemonKnoxRight0006" x="3350" y="1119" width="718" height="943" frameX="0" frameY="-19" frameWidth="718" frameHeight="962"/>
+	<SubTexture name="DemonKnoxRight0007" x="4068" y="1119" width="718" height="943" frameX="0" frameY="-19" frameWidth="718" frameHeight="962"/>
+	<SubTexture name="DemonKnoxRight0008" x="2632" y="1119" width="718" height="943" frameX="0" frameY="-19" frameWidth="718" frameHeight="962"/>
+	<SubTexture name="DemonKnoxRight0009" x="3350" y="1119" width="718" height="943" frameX="0" frameY="-19" frameWidth="718" frameHeight="962"/>
+	<SubTexture name="DemonKnoxRight0010" x="4068" y="1119" width="718" height="943" frameX="0" frameY="-19" frameWidth="718" frameHeight="962"/>
+	<SubTexture name="DemonKnoxRight0011" x="2632" y="1119" width="718" height="943" frameX="0" frameY="-19" frameWidth="718" frameHeight="962"/>
+	<SubTexture name="DemonKnoxRight0012" x="3350" y="1119" width="718" height="943" frameX="0" frameY="-19" frameWidth="718" frameHeight="962"/>
+	<SubTexture name="DemonKnoxRight0013" x="4068" y="1119" width="718" height="943" frameX="0" frameY="-19" frameWidth="718" frameHeight="962"/>
+	<SubTexture name="DemonKnoxUp0000" x="4786" y="1119" width="574" height="935" pivotX="393.3" pivotY="766.05" frameX="-10" frameY="-315" frameWidth="905" frameHeight="1252"/>
+	<SubTexture name="DemonKnoxUp0001" x="5360" y="1119" width="574" height="933" frameX="-8" frameY="-317" frameWidth="905" frameHeight="1252"/>
+	<SubTexture name="DemonKnoxUp0002" x="5934" y="1119" width="872" height="1242" frameX="0" frameY="-9" frameWidth="905" frameHeight="1252"/>
+	<SubTexture name="DemonKnoxUp0003" x="6806" y="1119" width="868" height="1251" frameX="0" frameY="0" frameWidth="905" frameHeight="1252"/>
+	<SubTexture name="DemonKnoxUp0004" x="0" y="2370" width="869" height="1224" frameX="-16" frameY="-28" frameWidth="905" frameHeight="1252"/>
+	<SubTexture name="DemonKnoxUp0005" x="869" y="2370" width="887" height="1134" frameX="-16" frameY="-117" frameWidth="905" frameHeight="1252"/>
+	<SubTexture name="DemonKnoxUp0006" x="1756" y="2370" width="881" height="1141" frameX="-16" frameY="-110" frameWidth="905" frameHeight="1252"/>
+	<SubTexture name="DemonKnoxUp0007" x="2637" y="2370" width="889" height="1127" frameX="-16" frameY="-125" frameWidth="905" frameHeight="1252"/>
+	<SubTexture name="DemonKnoxUp0008" x="869" y="2370" width="887" height="1134" frameX="-16" frameY="-117" frameWidth="905" frameHeight="1252"/>
+	<SubTexture name="DemonKnoxUp0009" x="1756" y="2370" width="881" height="1141" frameX="-16" frameY="-110" frameWidth="905" frameHeight="1252"/>
+	<SubTexture name="DemonKnoxUp0010" x="2637" y="2370" width="889" height="1127" frameX="-16" frameY="-125" frameWidth="905" frameHeight="1252"/>
+</TextureAtlas>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="benchGF.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BenchGf0000" x="0" y="0" width="851" height="474" pivotX="595.55" pivotY="273.1" frameX="0" frameY="-12" frameWidth="851" frameHeight="486"/>
+	<SubTexture name="BenchGf0001" x="851" y="0" width="848" height="474" frameX="-3" frameY="-12" frameWidth="851" frameHeight="486"/>
+	<SubTexture name="BenchGf0002" x="1699" y="0" width="851" height="473" frameX="0" frameY="-13" frameWidth="851" frameHeight="486"/>
+	<SubTexture name="BenchGf0003" x="2550" y="0" width="851" height="473" frameX="0" frameY="-13" frameWidth="851" frameHeight="486"/>
+	<SubTexture name="BenchGf0004" x="0" y="474" width="851" height="477" frameX="0" frameY="-9" frameWidth="851" frameHeight="486"/>
+	<SubTexture name="BenchGf0005" x="851" y="474" width="851" height="477" frameX="0" frameY="-9" frameWidth="851" frameHeight="486"/>
+	<SubTexture name="BenchGf0006" x="1702" y="474" width="851" height="479" frameX="0" frameY="-7" frameWidth="851" frameHeight="486"/>
+	<SubTexture name="BenchGf0007" x="2553" y="474" width="851" height="485" frameX="0" frameY="-1" frameWidth="851" frameHeight="486"/>
+	<SubTexture name="BenchGf0008" x="2553" y="474" width="851" height="485" frameX="0" frameY="-1" frameWidth="851" frameHeight="486"/>
+	<SubTexture name="BenchGf0009" x="2553" y="474" width="851" height="485" frameX="0" frameY="-1" frameWidth="851" frameHeight="486"/>
+	<SubTexture name="BenchGf0010" x="0" y="959" width="851" height="486"/>
+	<SubTexture name="BenchGf0011" x="0" y="959" width="851" height="486"/>
+	<SubTexture name="BenchGf0012" x="0" y="959" width="851" height="486"/>
+	<SubTexture name="BenchGf0013" x="851" y="959" width="851" height="485" frameX="0" frameY="-1" frameWidth="851" frameHeight="486"/>
+	<SubTexture name="BenchGf0014" x="851" y="959" width="851" height="485" frameX="0" frameY="-1" frameWidth="851" frameHeight="486"/>
+	<SubTexture name="BenchGf0015" x="1702" y="959" width="851" height="471" frameX="0" frameY="-15" frameWidth="851" frameHeight="486"/>
+	<SubTexture name="BenchGf0016" x="2553" y="959" width="848" height="471" frameX="-3" frameY="-15" frameWidth="851" frameHeight="486"/>
+	<SubTexture name="BenchGf0017" x="0" y="1445" width="848" height="471" frameX="-3" frameY="-15" frameWidth="851" frameHeight="486"/>
+	<SubTexture name="BenchGf0018" x="848" y="1445" width="851" height="471" frameX="0" frameY="-15" frameWidth="851" frameHeight="486"/>
+	<SubTexture name="BenchGf0019" x="1699" y="1445" width="851" height="472" frameX="0" frameY="-14" frameWidth="851" frameHeight="486"/>
+	<SubTexture name="BenchGf0020" x="2550" y="1445" width="851" height="472" frameX="0" frameY="-14" frameWidth="851" frameHeight="486"/>
+	<SubTexture name="BenchGf0021" x="0" y="1917" width="851" height="474" frameX="0" frameY="-12" frameWidth="851" frameHeight="486"/>
+	<SubTexture name="BenchGf0022" x="851" y="1917" width="851" height="482" frameX="0" frameY="-4" frameWidth="851" frameHeight="486"/>
+	<SubTexture name="BenchGf0023" x="851" y="1917" width="851" height="482" frameX="0" frameY="-4" frameWidth="851" frameHeight="486"/>
+	<SubTexture name="BenchGf0024" x="851" y="1917" width="851" height="482" frameX="0" frameY="-4" frameWidth="851" frameHeight="486"/>
+	<SubTexture name="BenchGf0025" x="1702" y="1917" width="851" height="482" frameX="0" frameY="-4" frameWidth="851" frameHeight="486"/>
+	<SubTexture name="BenchGf0026" x="1702" y="1917" width="851" height="482" frameX="0" frameY="-4" frameWidth="851" frameHeight="486"/>
+	<SubTexture name="BenchGf0027" x="1702" y="1917" width="851" height="482" frameX="0" frameY="-4" frameWidth="851" frameHeight="486"/>
+	<SubTexture name="BenchGf0028" x="2553" y="1917" width="851" height="482" frameX="0" frameY="-4" frameWidth="851" frameHeight="486"/>
+	<SubTexture name="BenchGf0029" x="2553" y="1917" width="851" height="482" frameX="0" frameY="-4" frameWidth="851" frameHeight="486"/>
+</TextureAtlas>

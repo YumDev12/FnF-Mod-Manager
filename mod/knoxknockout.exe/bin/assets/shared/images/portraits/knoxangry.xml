@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="knoxangry.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="talk Mad0000" x="0" y="0" width="325" height="322" frameX="0" frameY="-18" frameWidth="329" frameHeight="340"/>
+	<SubTexture name="talk Mad0001" x="0" y="0" width="325" height="322" frameX="0" frameY="-18" frameWidth="329" frameHeight="340"/>
+	<SubTexture name="talk Mad0002" x="325" y="0" width="323" height="340" frameX="0" frameY="0" frameWidth="329" frameHeight="340"/>
+	<SubTexture name="talk Mad0003" x="325" y="0" width="323" height="340" frameX="0" frameY="0" frameWidth="329" frameHeight="340"/>
+	<SubTexture name="talk Mad0004" x="648" y="0" width="329" height="322" frameX="0" frameY="-18" frameWidth="329" frameHeight="340"/>
+	<SubTexture name="talk Mad0005" x="648" y="0" width="329" height="322" frameX="0" frameY="-18" frameWidth="329" frameHeight="340"/>
+	<SubTexture name="talk Mad0006" x="0" y="340" width="323" height="318" frameX="0" frameY="-22" frameWidth="329" frameHeight="340"/>
+	<SubTexture name="talk Mad0007" x="0" y="340" width="323" height="318" frameX="0" frameY="-22" frameWidth="329" frameHeight="340"/>
+</TextureAtlas>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sun.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sun0000" x="0" y="0" width="346" height="363" pivotX="155.9" pivotY="170.65" frameX="0" frameY="-7" frameWidth="349" frameHeight="374"/>
+	<SubTexture name="Sun0001" x="0" y="0" width="346" height="363" frameX="0" frameY="-7" frameWidth="349" frameHeight="374"/>
+	<SubTexture name="Sun0002" x="0" y="0" width="346" height="363" frameX="0" frameY="-7" frameWidth="349" frameHeight="374"/>
+	<SubTexture name="Sun0003" x="0" y="0" width="346" height="363" frameX="0" frameY="-7" frameWidth="349" frameHeight="374"/>
+	<SubTexture name="Sun0004" x="346" y="0" width="348" height="363" frameX="-1" frameY="-7" frameWidth="349" frameHeight="374"/>
+	<SubTexture name="Sun0005" x="0" y="0" width="346" height="363" frameX="0" frameY="-7" frameWidth="349" frameHeight="374"/>
+	<SubTexture name="Sun0006" x="0" y="0" width="346" height="363" frameX="0" frameY="-7" frameWidth="349" frameHeight="374"/>
+	<SubTexture name="Sun0007" x="0" y="0" width="346" height="363" frameX="0" frameY="-7" frameWidth="349" frameHeight="374"/>
+	<SubTexture name="Sun0008" x="0" y="0" width="346" height="363" frameX="0" frameY="-7" frameWidth="349" frameHeight="374"/>
+	<SubTexture name="Sun0009" x="0" y="0" width="346" height="363" frameX="0" frameY="-7" frameWidth="349" frameHeight="374"/>
+	<SubTexture name="Sun0010" x="0" y="0" width="346" height="363" frameX="0" frameY="-7" frameWidth="349" frameHeight="374"/>
+	<SubTexture name="Sun0011" x="0" y="0" width="346" height="363" frameX="0" frameY="-7" frameWidth="349" frameHeight="374"/>
+	<SubTexture name="Sun0012" x="0" y="0" width="346" height="363" frameX="0" frameY="-7" frameWidth="349" frameHeight="374"/>
+	<SubTexture name="Sun0013" x="0" y="363" width="347" height="374" frameX="0" frameY="0" frameWidth="349" frameHeight="374"/>
+	<SubTexture name="Sun0014" x="0" y="0" width="346" height="363" frameX="0" frameY="-7" frameWidth="349" frameHeight="374"/>
+	<SubTexture name="Sun0015" x="0" y="0" width="346" height="363" frameX="0" frameY="-7" frameWidth="349" frameHeight="374"/>
+	<SubTexture name="Sun0016" x="0" y="0" width="346" height="363" frameX="0" frameY="-7" frameWidth="349" frameHeight="374"/>
+</TextureAtlas>

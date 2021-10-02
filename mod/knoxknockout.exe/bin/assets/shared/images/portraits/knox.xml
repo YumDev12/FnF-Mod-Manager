@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="knox.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="enter0000" x="0" y="0" width="288" height="331"/>
+	<SubTexture name="enter0001" x="0" y="0" width="288" height="331"/>
+	<SubTexture name="enter0002" x="288" y="0" width="288" height="331"/>
+	<SubTexture name="enter0003" x="288" y="0" width="288" height="331"/>
+	<SubTexture name="enter0004" x="576" y="0" width="288" height="331"/>
+	<SubTexture name="enter0005" x="576" y="0" width="288" height="331"/>
+	<SubTexture name="enter0006" x="576" y="0" width="288" height="331"/>
+	<SubTexture name="enter0007" x="576" y="0" width="288" height="331"/>
+	<SubTexture name="enter0008" x="576" y="0" width="288" height="331"/>
+	<SubTexture name="enter0009" x="576" y="0" width="288" height="331"/>
+	<SubTexture name="talk0000" x="0" y="331" width="288" height="331" frameX="-2" frameY="0" frameWidth="295" frameHeight="331"/>
+	<SubTexture name="talk0001" x="0" y="331" width="288" height="331" frameX="-2" frameY="0" frameWidth="295" frameHeight="331"/>
+	<SubTexture name="talk0002" x="288" y="331" width="288" height="331" frameX="0" frameY="0" frameWidth="295" frameHeight="331"/>
+	<SubTexture name="talk0003" x="288" y="331" width="288" height="331" frameX="0" frameY="0" frameWidth="295" frameHeight="331"/>
+	<SubTexture name="talk0004" x="576" y="331" width="288" height="331" frameX="0" frameY="0" frameWidth="295" frameHeight="331"/>
+	<SubTexture name="talk0005" x="576" y="331" width="288" height="331" frameX="0" frameY="0" frameWidth="295" frameHeight="331"/>
+	<SubTexture name="talk0006" x="0" y="662" width="293" height="331" frameX="-2" frameY="0" frameWidth="295" frameHeight="331"/>
+	<SubTexture name="talk0007" x="0" y="662" width="293" height="331" frameX="-2" frameY="0" frameWidth="295" frameHeight="331"/>
+</TextureAtlas>

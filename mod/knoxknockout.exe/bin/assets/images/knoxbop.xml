@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="knoxbop.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="KnoxL0000" x="0" y="0" width="406" height="981" pivotX="202.4" pivotY="429" frameX="-1" frameY="-10" frameWidth="407" frameHeight="991"/>
+	<SubTexture name="KnoxL0001" x="406" y="0" width="404" height="981" frameX="-2" frameY="-10" frameWidth="407" frameHeight="991"/>
+	<SubTexture name="KnoxL0002" x="810" y="0" width="404" height="981" frameX="-2" frameY="-10" frameWidth="407" frameHeight="991"/>
+	<SubTexture name="KnoxL0003" x="1214" y="0" width="403" height="981" frameX="-2" frameY="-10" frameWidth="407" frameHeight="991"/>
+	<SubTexture name="KnoxL0004" x="1617" y="0" width="403" height="982" frameX="-2" frameY="-9" frameWidth="407" frameHeight="991"/>
+	<SubTexture name="KnoxL0005" x="2020" y="0" width="402" height="982" frameX="-2" frameY="-9" frameWidth="407" frameHeight="991"/>
+	<SubTexture name="KnoxL0006" x="2422" y="0" width="405" height="990" frameX="0" frameY="-1" frameWidth="407" frameHeight="991"/>
+	<SubTexture name="KnoxL0007" x="2827" y="0" width="405" height="990" frameX="0" frameY="-1" frameWidth="407" frameHeight="991"/>
+	<SubTexture name="KnoxL0008" x="3232" y="0" width="405" height="990" frameX="0" frameY="-1" frameWidth="407" frameHeight="991"/>
+	<SubTexture name="KnoxL0009" x="3637" y="0" width="404" height="990" frameX="0" frameY="-1" frameWidth="407" frameHeight="991"/>
+	<SubTexture name="KnoxL0010" x="0" y="990" width="404" height="990" frameX="0" frameY="-1" frameWidth="407" frameHeight="991"/>
+	<SubTexture name="KnoxL0011" x="404" y="990" width="404" height="990" frameX="0" frameY="-1" frameWidth="407" frameHeight="991"/>
+	<SubTexture name="KnoxL0012" x="808" y="990" width="404" height="991" frameX="0" frameY="0" frameWidth="407" frameHeight="991"/>
+	<SubTexture name="KnoxL0013" x="808" y="990" width="404" height="991" frameX="0" frameY="0" frameWidth="407" frameHeight="991"/>
+	<SubTexture name="KnoxL0014" x="808" y="990" width="404" height="991" frameX="0" frameY="0" frameWidth="407" frameHeight="991"/>
+	<SubTexture name="KnoxR0000" x="1212" y="990" width="417" height="992" pivotX="213.5" pivotY="430.85"/>
+	<SubTexture name="KnoxR0001" x="1629" y="990" width="414" height="992" frameX="-2" frameY="0" frameWidth="417" frameHeight="992"/>
+	<SubTexture name="KnoxR0002" x="2043" y="990" width="412" height="991" frameX="-4" frameY="-1" frameWidth="417" frameHeight="992"/>
+	<SubTexture name="KnoxR0003" x="2455" y="990" width="411" height="989" frameX="-5" frameY="-3" frameWidth="417" frameHeight="992"/>
+	<SubTexture name="KnoxR0004" x="2866" y="990" width="408" height="989" frameX="-7" frameY="-3" frameWidth="417" frameHeight="992"/>
+	<SubTexture name="KnoxR0005" x="3274" y="990" width="407" height="989" frameX="-8" frameY="-3" frameWidth="417" frameHeight="992"/>
+	<SubTexture name="KnoxR0006" x="3681" y="990" width="405" height="990" frameX="-10" frameY="-2" frameWidth="417" frameHeight="992"/>
+	<SubTexture name="KnoxR0007" x="0" y="1982" width="404" height="991" frameX="-11" frameY="-1" frameWidth="417" frameHeight="992"/>
+	<SubTexture name="KnoxR0008" x="404" y="1982" width="404" height="990" frameX="-11" frameY="-2" frameWidth="417" frameHeight="992"/>
+	<SubTexture name="KnoxR0009" x="404" y="1982" width="404" height="990" frameX="-11" frameY="-2" frameWidth="417" frameHeight="992"/>
+	<SubTexture name="KnoxR0010" x="808" y="1982" width="404" height="990" frameX="-11" frameY="-2" frameWidth="417" frameHeight="992"/>
+	<SubTexture name="KnoxR0011" x="1212" y="1982" width="404" height="990" frameX="-11" frameY="-2" frameWidth="417" frameHeight="992"/>
+	<SubTexture name="KnoxR0012" x="1616" y="1982" width="404" height="990" frameX="-11" frameY="-2" frameWidth="417" frameHeight="992"/>
+	<SubTexture name="KnoxR0013" x="2020" y="1982" width="404" height="990" frameX="-11" frameY="-2" frameWidth="417" frameHeight="992"/>
+	<SubTexture name="KnoxR0014" x="2424" y="1982" width="404" height="990" frameX="-11" frameY="-2" frameWidth="417" frameHeight="992"/>
+</TextureAtlas>

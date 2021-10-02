@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sun.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sun0000" x="2" y="2" width="346" height="363" frameX="-30" frameY="-55" frameWidth="422" frameHeight="427"/>
+	<SubTexture name="Sun0001" x="2" y="2" width="346" height="363" frameX="-30" frameY="-55" frameWidth="422" frameHeight="427"/>
+	<SubTexture name="Sun0002" x="350" y="2" width="380" height="397" frameX="-19" frameY="-30" frameWidth="422" frameHeight="427"/>
+	<SubTexture name="Sun0003" x="350" y="2" width="380" height="397" frameX="-19" frameY="-30" frameWidth="422" frameHeight="427"/>
+	<SubTexture name="Sun0004" x="732" y="2" width="409" height="419" frameX="-13" frameY="0" frameWidth="422" frameHeight="427"/>
+	<SubTexture name="Sun0005" x="732" y="2" width="409" height="419" frameX="-13" frameY="0" frameWidth="422" frameHeight="427"/>
+	<SubTexture name="Sun0006" x="1143" y="2" width="408" height="381" frameX="0" frameY="-39" frameWidth="422" frameHeight="427"/>
+	<SubTexture name="Sun0007" x="1143" y="2" width="408" height="381" frameX="0" frameY="-39" frameWidth="422" frameHeight="427"/>
+	<SubTexture name="Sun0008" x="1553" y="2" width="345" height="359" frameX="-26" frameY="-57" frameWidth="422" frameHeight="427"/>
+	<SubTexture name="Sun0009" x="1553" y="2" width="345" height="359" frameX="-26" frameY="-57" frameWidth="422" frameHeight="427"/>
+</TextureAtlas>
